@@ -1,0 +1,1 @@
+# LottoMind-Mobile
